@@ -1,0 +1,43 @@
+baseURL: http://localhost:1313/
+languageCode: en-us
+title: Mon Cheri official site
+theme: PaperMod
+
+enableEmoji: true
+
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    languageCode: ":gb:"
+    languageName: ":gb:"
+  el:
+    languageName: "Greek"
+    languageCode: ":flag_greece:"
+    weight: 2
+  fr:
+    languageName: ":fr:"
+    weight: 3
+
+params:
+  env: production
+  displayFullLangName: true
+  mainSections:
+    - posts
+
+  homeInfoParams:
+    Title: "Mon Cheri"
+    Content: >
+      Welcome to the hottest cocktail shop in town!
+
+  socialIcons:
+    - name: facebook
+      title: Mon Cheri in Facebook
+      url: "https://www.facebook.com/MonCheriCocktailBar"
+    - name: instagram
+      title: Mon Cheri in Instagram
+      url: "https://www.instagram.com/mon_cheri_cocktail_bar/"
+  cover:
+    responsiveImages: false
+
