@@ -1,35 +1,45 @@
 baseURL: http://localhost:1313/
 languageCode: en-us
-title: Mon Cheri official site
-theme: PaperMod
+theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
 
+enableInlineShortcodes: true
 enableEmoji: true
 
 
 languages:
   en:
-    languageName: "English"
-    weight: 1
-    languageCode: ":gb:"
     languageName: ":gb:"
+    weight: 1
+    title: Mon Cheri official site
+    params:
+      homeInfoParams:
+        Title: "Mon Cheri"
+        Content: >
+          Welcome to the hottest cocktail shop in town!
   el:
-    languageName: "Greek"
-    languageCode: ":flag_greece:"
+    languageName: ":greece:"
     weight: 2
+    title: Mon Cheri - Επίσημη ιστοσελίδα
+    params:
+      homeInfoParams:
+        Title: "Mon Cheri αλλα ελληνικα"
+        Content: >
+          Ελληνικα εδω!
   fr:
+    title: Mon Cheri official site in French
     languageName: ":fr:"
     weight: 3
+    params:
+      homeInfoParams:
+        Title: "Mon Cheri αλα γαλλικα"
+        Content: >
+          Fransua
 
 params:
   env: production
   displayFullLangName: true
   mainSections:
     - posts
-
-  homeInfoParams:
-    Title: "Mon Cheri"
-    Content: >
-      Welcome to the hottest cocktail shop in town!
 
   socialIcons:
     - name: facebook
