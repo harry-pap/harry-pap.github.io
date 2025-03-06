@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://moncheri.gr
 languageCode: en-us
 theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
 
@@ -22,18 +22,10 @@ languages:
     title: Mon Cheri - Επίσημη ιστοσελίδα
     params:
       homeInfoParams:
-        Title: "Mon Cheri αλλα ελληνικα"
+        Title: "Mon Cheri"
         Content: >
-          Ελληνικα εδω!
-  fr:
-    title: Mon Cheri official site in French
-    languageName: ":fr:"
-    weight: 3
-    params:
-      homeInfoParams:
-        Title: "Mon Cheri αλα γαλλικα"
-        Content: >
-          Fransua
+          Καλώς ήλθατε στο πιο hot cocktail bar της πόλης!
+
 
 params:
   env: production
