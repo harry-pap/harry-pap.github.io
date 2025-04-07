@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mon Cheri - Επίσημη ιστοσελίδα</title>
+    <link>http://localhost:1313/el/</link>
+    <description>Recent content on Mon Cheri - Επίσημη ιστοσελίδα</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>el</language>
+    <atom:link href="http://localhost:1313/el/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Κατάλογος 🍸</title>
+      <link>http://localhost:1313/el/posts/menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/el/posts/menu/</guid>
+      <description>Απολαύστε ξεχωριστά cocktails</description>
+    </item>
+    <item>
+      <title>Κάντε μας μια κριτική στο Google Maps</title>
+      <link>http://localhost:1313/el/posts/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/el/posts/google/</guid>
+      <description>Και κερδίστε ένα σφηνάκι από εμάς!</description>
+    </item>
+    <item>
+      <title>Κάντε μας μια κριτική στο Trip Advisor</title>
+      <link>http://localhost:1313/el/posts/tripadvisor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/el/posts/tripadvisor/</guid>
+      <description>Και κερδίστε ένα σφηνάκι από εμάς!</description>
+    </item>
+  </channel>
+</rss>
