@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/el/posts/menu/</loc>
+    <loc>https://moncheri.gr/el/posts/menu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/menu/"
+                href="https://moncheri.gr/posts/menu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/posts/menu/"
+                href="https://moncheri.gr/el/posts/menu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/el/posts/google/</loc>
+    <loc>https://moncheri.gr/el/posts/google/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/google/"
+                href="https://moncheri.gr/posts/google/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/posts/google/"
+                href="https://moncheri.gr/el/posts/google/"
                 />
   </url><url>
-    <loc>http://localhost:1313/el/posts/tripadvisor/</loc>
+    <loc>https://moncheri.gr/el/posts/tripadvisor/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/tripadvisor/"
+                href="https://moncheri.gr/posts/tripadvisor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/posts/tripadvisor/"
+                href="https://moncheri.gr/el/posts/tripadvisor/"
                 />
   </url><url>
-    <loc>http://localhost:1313/el/categories/</loc>
+    <loc>https://moncheri.gr/el/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://moncheri.gr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/categories/"
+                href="https://moncheri.gr/el/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/el/</loc>
+    <loc>https://moncheri.gr/el/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://moncheri.gr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/"
+                href="https://moncheri.gr/el/"
                 />
   </url><url>
-    <loc>http://localhost:1313/el/posts/</loc>
+    <loc>https://moncheri.gr/el/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://moncheri.gr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/posts/"
+                href="https://moncheri.gr/el/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/el/tags/</loc>
+    <loc>https://moncheri.gr/el/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://moncheri.gr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/tags/"
+                href="https://moncheri.gr/el/tags/"
                 />
   </url>
 </urlset>
