@@ -33,3 +33,11 @@
 .first-entry {
     font-size: 24px;
 }
+
+[id^="pdf-next-"] {
+    text-decoration: underline;
+}
+
+[id^="pdf-prev-"] {
+    text-decoration: underline;
+}

@@ -4,4 +4,4 @@ summary: Απολαύστε ξεχωριστά cocktails
 weight: 1
 ---
 
-{{< embed-pdf url="./menu.el.pdf" >}}
+{{< embed-pdf url="./menu.pdf" >}}
